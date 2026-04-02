@@ -2,7 +2,7 @@
 
 ### Открываем приложение, нажимаем на + справа сверху 
 ![IMG_0460](https://github.com/user-attachments/assets/dcb5cd40-af7e-44db-9a2f-bfcfd205209b) 
-<img src="https://github.com/user-attachments/assets/00asdasd9bb3" width="300">
+<img src="https://github.com/user-attachments/assets/dcb5cd40-af7e-44db-9a2f-bfcfd205209b" width="300">
 
 ### Если вы уже скопировали ссылку, нажимаем "Вставить из буфера" 
 ![IMG_0461](https://github.com/user-attachments/assets/5a752b46-ea88-48ce-b176-47fce19c3a30) 
