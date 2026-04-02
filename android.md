@@ -6,7 +6,8 @@
 # В приложении справа сверху +
 <img src="https://github.com/user-attachments/assets/3e4e7fc4-8067-44f9-b279-cbb6c6702f70" width="300"> 
 
-# (Import config from clipboard) (Добавить конфигурацию из буфера обмена)
+# Нажать (Import config from clipboard) (Добавить конфигурацию из буфера обмена)
+<img src="https://github.com/user-attachments/assets/c31a8454-6bb0-4b69-bf60-846a318cfbdd" width="300"> 
 
 # Справа снизу галочка для запуска
 <img src="https://github.com/user-attachments/assets/d1ebab47-7f78-49bd-826e-a1629c1a895f" width="300"> 
