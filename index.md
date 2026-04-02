@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Мануал
+hide_title: true
 ---
 
 ## Ссылка на Streisand (Для Айфонов): [https://apps.apple.com/app/id6450534064](https://apps.apple.com/app/id6450534064) 
