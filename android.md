@@ -1,4 +1,4 @@
-# Скачать v2rayNG
+# Скачать и установить v2rayNG
 - [Прямая ссылка https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk](https://github.com/2dust/v2rayNG/releases/download/2.0.15/v2rayNG_2.0.15_universal.apk) 
 
 # Получить ссылку и скопировать
