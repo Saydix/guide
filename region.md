@@ -19,22 +19,22 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/eec9fb47-0552-4cac-95e7-178f6fad6ac2" />
 
 # Теперь смена региона
-Открываем App Store \
-Открываем профиль \
+Открываем App Store 
+Открываем профиль 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/42e5dcc6-7812-4d91-a97c-2b84c6c020d2" /> 
 
-Нажимаем на профиль ещё раз \
+Нажимаем на профиль ещё раз 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/7a8a1587-f040-4feb-8b28-c800e70f64b1" /> 
 
-Выбираем Страна/Регион \
+Выбираем Страна/Регион 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/d25ea0f0-4093-456a-b7d8-88dae3463f5c" /> 
 
-Вводим Казахстан или Kazakhstan \
-(Или любую другую страну, главное не РФ и не РБ \
+Вводим Казахстан или Kazakhstan 
+(Или любую другую страну, главное не РФ и не РБ 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/3d748ea3-36d5-4980-b398-af2459ba1890" /> 
 
-Нажимаем Продолжить \
-Нажимаем Согласен \
+Нажимаем Продолжить 
+Нажимаем Согласен 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/656eaa62-9a37-4a84-9df0-463f483a1fba" /> 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ecf0dc2d-6f3e-4ef1-b184-a347791e7fe3" /> 
 
