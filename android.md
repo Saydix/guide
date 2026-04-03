@@ -4,8 +4,8 @@
 
 # Hiddify
 - [Прямая ссылка Hiddify https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk)  
-- [Google Play Hiddify https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
-- 
+- [Google Play Hiddify https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com) 
+
 ## В приложении справа сверху +
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/39e0c5a8-4a9b-47f1-9ebd-6d22257db356" />
 
