@@ -112,9 +112,9 @@ https://saydix.github.io/guide/clash-verge-guide - github
 https://www.youtube.com/watch?v=dQw4w9WgXcQ - youtube  
 - Сервис работает через приложение  
 Через [Редактирование правил](#редактировать-правила) необходимо добавить название процесса  
-<img width="1519" height="321" alt="image" src="https://github.com/user-attachments/assets/b9421202-bf04-45dc-88b2-c419af3bcb0f" />  
+<img width="1200" height="200" alt="image" src="https://github.com/user-attachments/assets/b9421202-bf04-45dc-88b2-c419af3bcb0f" />  
 Стоит убедиться что все процессы  идут через прокси, некоторые приложения могут использовать несколько процессов  
-<img width="2012" height="272" alt="image" src="https://github.com/user-attachments/assets/e31e0065-c414-4ba6-b8c7-f8265334e39f" />  
+<img width="1200" height="150" alt="image" src="https://github.com/user-attachments/assets/e31e0065-c414-4ba6-b8c7-f8265334e39f" />  
 
 
 ### Нужный мне сервис работает через прокси, а должен напрямую
