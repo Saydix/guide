@@ -6,6 +6,6 @@ title: Мануал
 
 # [Настройка клиентов на Android (Hiddify, v2rayTun)](android)  
 
-# Настройка клиента на Windows
+# [Настройка клиента на Windows (Clash Verge)](windows)
 
 # Настройка клиента на Mac
