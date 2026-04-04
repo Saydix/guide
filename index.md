@@ -2,10 +2,10 @@
 layout: default
 title: Мануал
 ---
+# [Настройка клиентов на iPhone (Streisand, Happ)](iphone)  
 
-## Ссылка на Streisand (Для Айфонов): [https://apps.apple.com/app/id6450534064](https://apps.apple.com/app/id6450534064) 
-# [Как сменить регион если нет приложения Streisand и оно не доступно по ссылке (Нажать на текст)](region)
+# [Настройка клиентов на Android (Hiddify, v2rayTun)](android)  
 
-# [Как использовать Streisand (Нажать на текст)](streisand)
+# Настройка клиента на Windows
 
-# [Если у вас Андроид (Нажать на текст)](android)
+# Настройка клиента на Mac
