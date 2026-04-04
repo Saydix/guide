@@ -54,7 +54,7 @@
 В случае необходимости можно добавлять и удалять правила</br>  
 Наиболее удобный инструмент - "редактировать правила"</br>  
 ### Редактировать правила
-<img width="1534" height="800" alt="image" src="https://github.com/user-attachments/assets/00355f79-3276-4941-864d-ee3d836a1532" />
+<img width="1534" height="600" alt="image" src="https://github.com/user-attachments/assets/00355f79-3276-4941-864d-ee3d836a1532" />
 Тип правил: (Простые в использовании закрывающие 98% потребностей)</br>
 1. DOMAIN-SUFFIX. Ищет правила по домену второго (wikipedia) и верхнего (.org) уровней</br>
 2. GEOSITE. Получает список сформированных сообществом ссылок на определённый ресурсы (Позволяет не вписывать десятки доменов необходимых для работы сайта вручную. Например: youtu.be, yt.bem googlevideo.com youtubekids.com youtubei.googleapis.com)</br>
