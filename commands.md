@@ -1,53 +1,80 @@
 # Автоматизация/Команды
 ## Как это работает
-При запуске любого приложения VPN запускается или отключается автоматически в фоне
+При запуске любого приложения VPN запускается или отключается автоматически в фоне 
+
 В первую очередь определитесь как именно сделать настройку:
 - При открытии заблокированных приложений vpn запускается в фоне, при закрытии заблокированных приложений отключается
 - При открытии сервисов ограничивающих доступ с не российских локаций (Озон, Яндекс, Вб и т.д)
-
 
 В первую очередь выберите предпочтительный режим работы автоматизации:
 - **Для обхода блокировок:** VPN автоматически включается в фоновом режиме при открытии заблокированных ресурсов и отключается сразу после их закрытия.
 - **Для российских сервисов:** VPN автоматически отключается при входе в сервисы, ограничивающие доступ из-за рубежа (Озон, Яндекс, Wildberries и др.), и снова включается после выхода из них.
 
+
 Если вы чаще пользуетесь заблокированными сервисами - выбирайте первый вариант. Если же вам важнее доступ к российским ресурсам - второй. (При этом уведомления на российские сервисы скорее всего будут поступать исправно даже с вторым вариантом) 
+
 Определить это можно в разделе Настройки > Аккумулятор, где отображается список приложений, потребляющих больше всего энергии
 
 ## Как настроить
 Ниже описан первый режим автоматизации
+
 Находим приложение Команды
+
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/f0e8e4f0-e0e2-42c9-9c49-3f3935a09c88" />
 
+
 Открываем вкладку Автоматизация 
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/91b96893-905d-40b2-acbe-095a352fbc7b" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/91b96893-905d-40b2-acbe-095a352fbc7b" />
+
 
 Нажимаем + справа сверху
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/8dd2b315-8264-483b-b153-f199b9541f6c" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8dd2b315-8264-483b-b153-f199b9541f6c" />
+
 
 Листаем до пункта «Приложение» или находим его через поиск
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/fadf643a-4d48-4640-8e53-79959cdd5f71" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fadf643a-4d48-4640-8e53-79959cdd5f71" />
+
 
 Выбираем «Немедленный запуск»
+
 Выбираем «Открыто»
+
 Нажимаем «Выбор»
-<img width="1200" alt="photo_2026-05-04_19-29-12" src="https://github.com/user-attachments/assets/75f8edf8-84a0-4473-9f2c-c7df818bb7bc" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b2f9dcb5-f2e9-4563-ad79-003bff3ed0c6" />
+
 
 В списке выбираем необходимые приложения или находим их через поиск. При открытии этих приложений будет включаться VPN
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/939a0884-ae6e-40ad-961b-ab07acfb7534" />
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/5bc275a3-4e38-4abf-9469-171378b2f4b6" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/939a0884-ae6e-40ad-961b-ab07acfb7534" /> <img width="300" alt="image" src="https://github.com/user-attachments/assets/5bc275a3-4e38-4abf-9469-171378b2f4b6" />
 
 Выбрали все необходимые приложения? Нажимаем «Далее»
-<img width="1200" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b642e77-9890-4d9b-82a6-c679dbddf9fa" />
+
+<img width="600" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b642e77-9890-4d9b-82a6-c679dbddf9fa" />
 
 В поиске вводим incy 
-Выбираем «Подключить»
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/079918ab-7bb7-465b-81fb-1de4dcf63c0b" />
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/6f4204a8-55fd-43a7-9be7-f18a34bbe2b5" />
 
-Первая автоматизация готова. Теперь при открывтии выбранных приложений VPN будет включаться автоматически
-Для настройки автоматического отключения достаточно создать ещё одну автоматизацию, но в шаге 
-<img width="1268" height="2560" alt="image" src="https://github.com/user-attachments/assets/021d5f1e-760b-4ec5-95f7-4d693f102018" />
-Указать "Закрыто"
+Выбираем «Подключить»
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/079918ab-7bb7-465b-81fb-1de4dcf63c0b" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6f4204a8-55fd-43a7-9be7-f18a34bbe2b5" />
+
+Первая автоматизация готова. Теперь при открытии выбранных приложений VPN будет включаться автоматически
+
+Для настройки автоматического отключения достаточно создать ещё одну автоматизацию, но в шаге ниже
+Указать «Закрыто»
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/021d5f1e-760b-4ec5-95f7-4d693f102018" />
+
 И действии для INCY - "Отключить"
-<img width="1242" height="2560" alt="image" src="https://github.com/user-attachments/assets/07913ba7-616d-4b29-80f4-c693b1f763a7" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/07913ba7-616d-4b29-80f4-c693b1f763a7" />
+
+## Для настройки второго режима автоматизации:
+
+Необходимо выбрать «Открыто» в пункте "Когда" и в действии для INCY - "Отключить"
+И после «Закрыто» и в действии для INCY - "Включить"
 
